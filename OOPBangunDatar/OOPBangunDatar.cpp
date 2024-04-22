@@ -13,5 +13,7 @@ public:
 		cout << "Masukkan Lebarnya : ";
 		cin >> lebar;
 	}
-
+	float HitungLuas() {
+		return panjang * lebar;
+	}
 };
