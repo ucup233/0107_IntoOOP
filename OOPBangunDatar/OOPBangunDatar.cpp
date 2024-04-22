@@ -22,3 +22,7 @@ public:
 		cout << "Luasnya : " << HitungLuas() << endl;
 	}
 };
+
+int main() {
+	BangunDatar pp;
+}
